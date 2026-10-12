@@ -1,0 +1,54 @@
+{
+  "registration_number": "CL0083-20151223016768",
+  "lobbyist_type": "Consultant Lobbyist",
+  "status": {
+    "initial_filing_date": "2015-12-23",
+    "last_filed_date": "2026-09-10"
+  },
+  "organization": {
+    "name": "HP Canada Co.",
+    "address": "3800 Quick Hill Road, Building 2, Suite 100, Austin, Texas, 78728, United States",
+    "description": "Our vision is to create technology that makes life better for everyone, everywhere — every person, every organization, and every community around the globe. This motivates us — inspires us — to do what we do. To make what we make. To invent, and to reinvent. To engineer experiences that amaze. We won’t stop pushing ahead, because you won’t stop pushing ahead. You’re reinventing how you work. How you play. How you live. With our technology, you’ll reinvent your world."
+  },
+  "lobbyists": [
+    {
+      "name": "David Angus",
+      "position": null
+    }
+  ],
+  "subject_matters": [
+    "Consumer services",
+    "Digital government",
+    "Government procurement",
+    "Information technology",
+    "Privatization and outsourcing",
+    "Science and technology"
+  ],
+  "lobbying_activities": [
+    {
+      "category": "Policy and/or program",
+      "goal": "HP would like to raise their profile within the Government of Ontario by promoting the value of their products and services to the various Ministries. They are hoping to work with the Government to identify opportunities where they can work together.",
+      "targets": [
+        "Office of the Minister of Finance",
+        "Office of the Minister of Labour Immigration Training and Skills Development",
+        "Office of the Minister of Transportation",
+        "Office of the President of the Treasury Board",
+        "Ministry of Transportation",
+        "Treasury Board Secretariat"
+      ]
+    },
+    {
+      "category": "Awarding of contract",
+      "goal": "HP would like to raise their profile within the Government of Ontario by promoting the value of their products and services to the various Ministries. They are hoping to work with the Government to identify opportunities where they can work together.",
+      "targets": [
+        "Office of the Minister of Finance",
+        "Office of the Minister of Transportation",
+        "Office of the President of the Treasury Board",
+        "Ministry of Finance",
+        "Ministry of Transportation",
+        "Treasury Board Secretariat"
+      ]
+    }
+  ],
+  "government_funding": []
+}

@@ -1,0 +1,30 @@
+{
+  "registration_number": "CL10021-20220422028232",
+  "lobbyist_type": "Consultant Lobbyist",
+  "status": {
+    "initial_filing_date": "2022-04-22",
+    "last_filed_date": "2026-08-18"
+  },
+  "organization": {
+    "name": "Canadian Tire",
+    "address": "2180 Yonge Street, Toronto, ON, M4P 2V8, Canada",
+    "description": "Canadian Tire – a retailer company"
+  },
+  "lobbyists": [
+    {
+      "name": "Melissa Winch",
+      "position": null
+    }
+  ],
+  "subject_matters": [],
+  "lobbying_activities": [
+    {
+      "category": "Policy and/or program",
+      "goal": "Seeking amendments to the Draft City of Barrie Official Plan as it relates to land own and/or occupied by Canadian Tire.",
+      "targets": [
+        "Ministry of Municipal Affairs and Housing"
+      ]
+    }
+  ],
+  "government_funding": []
+}

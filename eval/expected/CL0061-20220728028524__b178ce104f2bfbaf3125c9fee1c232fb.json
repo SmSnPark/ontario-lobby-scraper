@@ -1,0 +1,102 @@
+{
+  "registration_number": "CL0061-20220728028524",
+  "lobbyist_type": "Consultant Lobbyist",
+  "status": {
+    "initial_filing_date": "2022-07-28",
+    "last_filed_date": "2026-09-01"
+  },
+  "organization": {
+    "name": "Township of South Stormont",
+    "address": "2 Mille Roches Road, PO Box 84, Long Sault, Ontario, K0C 1P0, Canada",
+    "description": "South Stormont is a township in eastern Ontario made up of rural and small urban communities, and home to over 13,000 residents."
+  },
+  "lobbyists": [
+    {
+      "name": "John Matheson",
+      "position": null
+    }
+  ],
+  "subject_matters": [
+    "Economic development and trade",
+    "Environment",
+    "Infrastructure"
+  ],
+  "lobbying_activities": [
+    {
+      "category": "Policy and/or program",
+      "goal": "Assist with Ministry of Transportation approvals to enable development adjacent to a 400-series highway.",
+      "targets": [
+        "Office of the Minister of Economic Development Job Creation and Trade",
+        "Office of the Minister of Finance",
+        "Office of the Minister of Infrastructure",
+        "Office of the Minister of Labour Immigration Training and Skills Development",
+        "Office of the Minister of Municipal Affairs and Housing",
+        "Office of the Minister of the Environment Conservation and Parks",
+        "Office of the Minister of Transportation",
+        "Office of the Premier and Cabinet Office",
+        "Office of the President of the Treasury Board",
+        "Office of the Minister of Tourism Culture and Gaming",
+        "Office of the Minister of Sport",
+        "Office of the Minister of Colleges Universities Research Excellence and Security",
+        "Office of the Associate Minister of Municipal Affairs and Housing",
+        "Ministry of Economic Development Job Creation and Trade",
+        "Ministry of Finance",
+        "Ministry of Infrastructure",
+        "Ministry of Labour Immigration Training and Skills Development",
+        "Ministry of Municipal Affairs and Housing",
+        "Ministry of the Environment Conservation and Parks",
+        "Ministry of Transportation",
+        "Treasury Board Secretariat",
+        "Ministry of Tourism Culture and Gaming",
+        "Ministry of Sport",
+        "Ministry of Colleges Universities Research Excellence and Security",
+        "Office of the Member for Stormont—Dundas—South Glengarry"
+      ]
+    },
+    {
+      "category": "Grant and/or contribution and/or other financial benefit",
+      "goal": "Assist in securing government funding for the expansion of a wastewater treatment facility and the waterfront development plan. Advance the economic development ambitions of the municipality.",
+      "targets": [
+        "Office of the Minister of Economic Development Job Creation and Trade",
+        "Office of the Minister of Finance",
+        "Office of the Minister of Infrastructure",
+        "Office of the Minister of Labour Immigration Training and Skills Development",
+        "Office of the Minister of Municipal Affairs and Housing",
+        "Office of the Minister of the Environment Conservation and Parks",
+        "Office of the Minister of Transportation",
+        "Office of the Premier and Cabinet Office",
+        "Office of the President of the Treasury Board",
+        "Office of the Minister of Tourism Culture and Gaming",
+        "Office of the Minister of Sport",
+        "Office of the Minister of Colleges Universities Research Excellence and Security",
+        "Office of the Associate Minister of Municipal Affairs and Housing",
+        "Ministry of Economic Development Job Creation and Trade",
+        "Ministry of Finance",
+        "Ministry of Infrastructure",
+        "Ministry of Labour Immigration Training and Skills Development",
+        "Ministry of Municipal Affairs and Housing",
+        "Ministry of the Environment Conservation and Parks",
+        "Ministry of Transportation",
+        "Treasury Board Secretariat",
+        "Ministry of Tourism Culture and Gaming",
+        "Ministry of Sport",
+        "Ministry of Colleges Universities Research Excellence and Security",
+        "Office of the Member for Stormont—Dundas—South Glengarry"
+      ]
+    }
+  ],
+  "government_funding": [
+    {
+      "source": "Government of Ontario",
+      "amount": 7759772.0
+    },
+    {
+      "source": "Federal Government",
+      "amount": 465806.0
+    },
+    {
+      "source": "Municipal - Barlow Community Benefit Fund",
+      "amount": 20000.0
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+# Runtime output (regenerate with src/driver.py)
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

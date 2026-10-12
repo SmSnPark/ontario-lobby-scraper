@@ -1,0 +1,105 @@
+{
+  "registration_number": "OL0020-19990727163001",
+  "lobbyist_type": "In-house Organization",
+  "status": {
+    "initial_filing_date": "1999-07-27",
+    "last_filed_date": "2026-08-27"
+  },
+  "organization": {
+    "name": "Canadian Vehicle Manufacturers' Association",
+    "address": "275 Slater Street 9th Floor, Ottawa, Ontario, K1P 5H9",
+    "description": "The Canadian Vehicle Manufacturers' Association (CVMA) represents the interest of its members by: -developing information and participating in Government consultation mechanisms on all issues affecting the well being of the motor vehicle industry in Canada -acting as a common voice on industry issues -disseminating information on motor vehicle issues to members, the government (federal/provincial) and the general public; and -compiling & distributing industry statistical reports & information for members, government and general public use."
+  },
+  "lobbyists": [
+    {
+      "name": "Jennifer Steeves",
+      "position": "Director, Industry & Consumer Affairs"
+    },
+    {
+      "name": "Karen Hou",
+      "position": "Director of Vehicle and Workplace Safety"
+    },
+    {
+      "name": "Yasmin Tarmohamed",
+      "position": "Vice President, Environment and Engineering"
+    },
+    {
+      "name": "Brian Kingston",
+      "position": "President"
+    }
+  ],
+  "subject_matters": [
+    "Consumer services",
+    "Economic development and trade",
+    "Energy",
+    "Environment",
+    "Financial institutions",
+    "Highways",
+    "Industry",
+    "Infrastructure",
+    "Insurance",
+    "International trade",
+    "Justice and law enforcement",
+    "Labour",
+    "Manufacturing",
+    "Mining",
+    "Natural resources",
+    "Research and innovation",
+    "Science and technology",
+    "Taxation and finance",
+    "Training and skills development",
+    "Transportation"
+  ],
+  "lobbying_activities": [
+    {
+      "category": "Regulation",
+      "goal": "- Ontario Environmental Protection Act (EPA); Environmental Approvals under the Ontario EPA. Outcome: Ensure that vehicle manufacturers receive timely approvals and flexibility for their operations to avoid any disruptions and ensure efficient compliance with Ontario EPA approvals. - O. Reg. 419/05: Air Pollution – Local Air Quality. Outcome: Ensure that the point of impingement standards established are achievable and practical for the motor manufacturing to meet requirements - Ontario Labour Relations Act and Ontario Employment Standards Act Outcome: Ensure that changes to the Ontario LRA and Ontario ESA support the competitiveness of plants in Ontario. Bill 151 - Resource Recovery and Circular Economy Act. Outcome: Ensure implementation does not add undue complexity or regulatory burden for regulations transitioning to the individual producer responsibility approach. Bill 4 - Cap & Trade Cancellation Act. Outcome: Ensure that the climate change plan carbon pricing policy does not compromise but protects the auto industry's competitiveness as it is at a significant risk of carbon leakage and highly trade exposed.",
+      "targets": [
+        "Office of the Minister of Economic Development Job Creation and Trade",
+        "Office of the Minister of Finance",
+        "Office of the Minister of Infrastructure",
+        "Office of the Minister of Labour Immigration Training and Skills Development",
+        "Office of the Minister of the Environment Conservation and Parks",
+        "Office of the Minister of Transportation",
+        "Office of the Premier and Cabinet Office",
+        "Office of the President of the Treasury Board",
+        "Office of the Minister of Energy and Mines",
+        "Ministry of Economic Development Job Creation and Trade",
+        "Ministry of Finance",
+        "Ministry of Infrastructure",
+        "Ministry of Labour Immigration Training and Skills Development",
+        "Ministry of Red Tape Reduction",
+        "Ministry of the Environment Conservation and Parks",
+        "Ministry of Transportation",
+        "Treasury Board Secretariat",
+        "Ministry of Energy and Mines",
+        "Workplace Safety and Insurance Board"
+      ]
+    },
+    {
+      "category": "Policy and/or program",
+      "goal": "- Ontario Occupational Health and Safety Act and regulations. Outcome: Ensure that the potential changes do not duplicate or undermine programs already developed by workplace parties applicable to automotive operations to ensure worker safety. - Workplace Safety and Insurance Act. Outcome: Ensure any potential changes to the WSIA support a sustainable and fair workers compensation system. - Competitive Industrial Electricity Rates; Ministry of Energy and Electrification, Outcome: Ensure that industrial electricity rates are competitive with other jurisdictions and do not undermine the competitiveness of vehicle manufacturing operations or suppliers or contribute to carbon leakage and that there is a clean, reliable, and affordable Ontario electricity system. - Bill 151 Waste Free Ontario Act 2016, Outcome: Ensure the implementation of the Act and transition does not unduly impact the competitiveness of the automotive operations. - Emissions Performance Standards Regulation (O. Reg. 241/19) under the Environmental Protection Act; Ministry of the Environment, Conservation and Parks. Outcome: Ensure that the greenhouse gas emissions regulations from large industrial facilities does not impact the auto industry’s competitiveness and minimizes carbon leakage and adjusts are the industry is transitions to electrification. - Waste Free Ontario Strategy, Outcome: Ensure the waste free Ontario strategy avoids duplication, does not negatively impact or impede the auto industry's current waste diversion systems and zero waste landfill objectives. - Red Tape Burden Reduction, Ministry of Red Tape Reduction. Outcome: Identify regulations/policies where there is duplication and burden which impacts industry's competitiveness and provide efficiencies/streamlining. - Consumer protection. Outcome: Consumer protection policy development that includes robust consultation with automotive manufacturers to ensure a framework that supports the deployment and security of important vehicle safety and emission systems, connected vehicle and autonomous vehicle technologies that provide benefit to the consumer. - Privacy. Outcome: Privacy framework that is compatible with other jurisdictions, that considers North American auto market integration, and that supports the deployment and security of important vehicle safety and emission control systems, connected vehicle and autonomous vehicle technologies that provide benefit to the consumer. - Zero emission vehicles, Ministry of Transportation. Outcome: Ensure that Ontario leads in providing a robust, reliable and readily accessible EV charging infrastructure network and provide consumer supports to bolster support EV adoption. - Critical Infrastructure, Ministry of Transportation. Outcome: Transportation planning that supports auto manufacturing investments through enhancements to road capacity in the GTA and across the province as well as road markings and technologies to support connected and autonomous vehicle innovations. Coordination with the federal government is encouraged regarding trade/supply chain critical infrastructure. - International Trade, Ministry of Economic Development Job Creation and Trade. Outcome: Policy direction that supports Ontario’s auto industry competitiveness as part of the highly integrated North American market. Close coordination with the federal government towards a unified strategy is encouraged.",
+      "targets": [
+        "Office of the Minister of Economic Development Job Creation and Trade",
+        "Office of the Minister of Finance",
+        "Office of the Minister of Labour Immigration Training and Skills Development",
+        "Office of the Minister of Red Tape Reduction",
+        "Office of the Minister of the Environment Conservation and Parks",
+        "Office of the Minister of Transportation",
+        "Office of the Premier and Cabinet Office",
+        "Office of the President of the Treasury Board",
+        "Office of the Minister of Energy and Mines",
+        "Ministry of Economic Development Job Creation and Trade",
+        "Ministry of Finance",
+        "Ministry of Labour Immigration Training and Skills Development",
+        "Ministry of Red Tape Reduction",
+        "Ministry of the Environment Conservation and Parks",
+        "Ministry of Transportation",
+        "Treasury Board Secretariat",
+        "Ministry of Energy and Mines",
+        "Workplace Safety and Insurance Board"
+      ]
+    }
+  ],
+  "government_funding": []
+}

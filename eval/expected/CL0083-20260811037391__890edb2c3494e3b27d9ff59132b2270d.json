@@ -1,0 +1,79 @@
+{
+  "registration_number": "CL0083-20260811037391",
+  "lobbyist_type": "Consultant Lobbyist",
+  "status": {
+    "initial_filing_date": "2026-08-11",
+    "last_filed_date": "2026-09-10"
+  },
+  "organization": {
+    "name": "Information and Communications Technology Council (ICTC) of Canada Inc.",
+    "address": "275 Slater Street, Suite 802, Ottawa, ON, K1P 5H9, Canada",
+    "description": "ICTC is a neutral, not-for-profit national centre of expertise with the mission of strengthening Canada's digital advantage in the global economy. For over 30 years, and with a team of 110 experts, we have delivered forward-looking research, practical policy advice, and capacity building solutions for individuals and businesses. Our goal is to ensure that technology is utilized to drive economic growth and innovation and that Canada's workforce remains competitive on a global scale."
+  },
+  "lobbyists": [
+    {
+      "name": "David Angus",
+      "position": null
+    }
+  ],
+  "subject_matters": [
+    "Government procurement",
+    "Information technology",
+    "Research and innovation",
+    "Science and technology"
+  ],
+  "lobbying_activities": [
+    {
+      "category": "Policy and/or program",
+      "goal": "Advance ICTC’s role as a trusted, evidence-based policy advisor on the digital economy and seek to build awareness of ICTC’s research, policy expertise, and capacity-building work, while advocating for support that sustains and expands these initiatives.",
+      "targets": [
+        "Office of the Associate Minister of Women's Social and Economic Opportunity",
+        "Office of the Minister of Economic Development Job Creation and Trade",
+        "Office of the Minister of Finance",
+        "Office of the Premier and Cabinet Office",
+        "Office of the President of the Treasury Board"
+      ]
+    },
+    {
+      "category": "Grant and/or contribution and/or other financial benefit",
+      "goal": "Also seeking engagement related to diversified, long-term federal funding for ICTC’s ongoing and future research and policy programming.",
+      "targets": [
+        "Office of the Associate Minister of Women's Social and Economic Opportunity",
+        "Office of the Minister of Economic Development Job Creation and Trade",
+        "Office of the Minister of Finance",
+        "Office of the Premier and Cabinet Office",
+        "Office of the President of the Treasury Board"
+      ]
+    }
+  ],
+  "government_funding": [
+    {
+      "source": "Alberta Minister of Jobs, Economy, Trade and Immigration",
+      "amount": 237405.0
+    },
+    {
+      "source": "Canada Water Agency (CWA)",
+      "amount": 237405.0
+    },
+    {
+      "source": "Employment and Social Development Canada (ESDC)",
+      "amount": 31487080.0
+    },
+    {
+      "source": "Immigration, Refugees and Citizenship Canada (IRCC)",
+      "amount": 1904402.0
+    },
+    {
+      "source": "Innovation, Science and Economic Development Canada (ISED)",
+      "amount": 1897864.0
+    },
+    {
+      "source": "Ministry of Alberta Jobs, Economy and Trade",
+      "amount": 255400.0
+    },
+    {
+      "source": "Women and Gender Equality (WAGE)",
+      "amount": 889496.0
+    }
+  ]
+}

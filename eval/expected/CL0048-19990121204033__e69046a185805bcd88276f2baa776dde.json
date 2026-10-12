@@ -1,0 +1,45 @@
+{
+  "registration_number": "CL0048-19990121204033",
+  "lobbyist_type": "Consultant Lobbyist",
+  "status": {
+    "initial_filing_date": "1999-08-23",
+    "last_filed_date": "2026-09-15"
+  },
+  "organization": {
+    "name": "Ontario Home Respiratory Services Association",
+    "address": "155 University Avenue,Suite #1900, Toronto, Ontario, M5H 3B7, Canada",
+    "description": "OHRSA represents Ontario home respiratory service providers, its members are dedicated to the highest standard of home respiratory care in the world."
+  },
+  "lobbyists": [
+    {
+      "name": "Paul Pellegrini",
+      "position": null
+    }
+  ],
+  "subject_matters": [
+    "Health",
+    "Social assistance"
+  ],
+  "lobbying_activities": [
+    {
+      "category": "Policy and/or program",
+      "goal": "General discussions regarding the Home Oxygen Program, the CPAP (Continuous Positive Airway Pressure) Therapy program and other respiratory therapy programs funded by the Assistive Devices Branch of the Ministry of Health. The lobbying goals include improving and expediting the administrative processes of the programs listed above; ensure respiratory services meet the strategic objectives of the Ontario government; and provide advice on the provision of respiratory services and improvement of services.",
+      "targets": [
+        "Office of the Minister for Seniors and Accessibility",
+        "Office of the Minister of Health",
+        "Office of the Associate Minister of Mental Health and Addictions",
+        "Office of the Minister of Long-Term Care",
+        "Office of the Premier and Cabinet Office",
+        "Office of the President of the Treasury Board",
+        "Ministry for Seniors and Accessibility",
+        "Ministry of Health",
+        "Ministry of Long-Term Care",
+        "Treasury Board Secretariat",
+        "Office of the Member for Ajax",
+        "Office of the Member for Eglinton—Lawrence",
+        "Office of the Member for Richmond Hill"
+      ]
+    }
+  ],
+  "government_funding": []
+}

@@ -1,0 +1,100 @@
+{
+  "registration_number": "PP0729-20160811017743",
+  "lobbyist_type": "In-house Persons & Partnerships",
+  "status": {
+    "initial_filing_date": "2016-08-11",
+    "last_filed_date": "2026-09-03"
+  },
+  "organization": {
+    "name": "NRStor Incorporated",
+    "address": "101 College Street, MaRS Centre Heritage Building, Suite 345, Toronto, Ontario, M5G 1L7",
+    "description": ""
+  },
+  "lobbyists": [
+    {
+      "name": "Annette Verschuren",
+      "position": "Chair & CEO"
+    },
+    {
+      "name": "Jason Rioux",
+      "position": "Chief Development Officer"
+    },
+    {
+      "name": "Joseph Arcuri",
+      "position": "Chief Financial Officer"
+    },
+    {
+      "name": "Scott Matthews",
+      "position": "Vice President, Projects"
+    }
+  ],
+  "subject_matters": [
+    "Economic development and trade",
+    "Energy",
+    "Environment",
+    "Government procurement",
+    "Indigenous relations",
+    "Industry",
+    "Infrastructure",
+    "Insurance",
+    "Northern development",
+    "Research and innovation",
+    "Science and technology",
+    "Taxation and finance"
+  ],
+  "lobbying_activities": [
+    {
+      "category": "Policy and/or program",
+      "goal": "Ensure energy policies pertaining to energy storage development enable the province to more efficiently use the electricity grid, reducing both emissions and costs.",
+      "targets": [
+        "Office of the Minister of Economic Development Job Creation and Trade",
+        "Office of the Minister of Finance",
+        "Office of the Minister of Infrastructure",
+        "Office of the Minister of the Environment Conservation and Parks",
+        "Office of the Premier and Cabinet Office",
+        "Office of the President of the Treasury Board",
+        "Office of the Minister of Indigenous Affairs and First Nations Economic Reconciliation",
+        "Office of the Minister of Natural Resources",
+        "Office of the Associate Minister of Energy Intensive Industries",
+        "Office of the Minister of Energy and Mines",
+        "Ministry of Economic Development Job Creation and Trade",
+        "Ministry of Finance",
+        "Ministry of Infrastructure",
+        "Ministry of the Environment Conservation and Parks",
+        "Ministry of Indigenous Affairs and First Nations Economic Reconciliation",
+        "Ministry of Natural Resources",
+        "Ministry of Energy and Mines",
+        "Office of the Member for Haldimand—Norfolk",
+        "Office of the Member for Hamilton Centre",
+        "Office of the Member for Hamilton East—Stoney Creek",
+        "Office of the Member for Hamilton Mountain",
+        "Office of the Member for Hamilton West—Ancaster—Dundas",
+        "Office of the Member for Simcoe North",
+        "Office of the Member for Simcoe—Grey",
+        "Office of the Member for Toronto Centre",
+        "Office of the Member for Toronto—St. Paul's",
+        "Office of the Member for Toronto—Danforth",
+        "Office of the Member for University—Rosedale",
+        "Ontario Infrastructure Bank",
+        "Building Code Commission",
+        "Building Materials Evaluation Commission",
+        "Independent Electricity System Operator",
+        "Metrolinx",
+        "Ontario Electricity Financial Corporation",
+        "Ontario Energy Board",
+        "Ontario Financing Authority",
+        "Ontario Infrastructure and Lands Corporation (Infrastructure Ontario)",
+        "Ontario Labour Relations Board",
+        "Ontario Power Generation Inc. or its subsidiaries",
+        "Ontario Research Fund Advisory Board",
+        "Provincial Land and Development Facilitator"
+      ]
+    }
+  ],
+  "government_funding": [
+    {
+      "source": "NRCAN",
+      "amount": 271000.0
+    }
+  ]
+}
